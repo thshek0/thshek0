@@ -5,13 +5,13 @@
 
 Here are some ideas to get you started:
 -->
-
-- 🔭 I’m currently working on maths
-- 🌱 I’m currently learning AIST
-- 👯 I’m looking to collaborate on anything
-- 🤔 I’m looking for help with me
-- 💬 Ask me about anything
-- 📫 How to reach me: fb, ig, anything
-- 😄 Pronouns: :)
-- ⚡ Fun fact: nahhhhhh
-
+- 🤔 Who am I? I’m Anson, a final year student in CUHK, majoring in AIST (ELITE stream) and minor in Business
+- 🔭 I’m currently working on
+  - Research Project: Overfitting evaluation metrics of image generative models
+  - Practical Project: LLM applications (Name-Entity Recognition via ChatGPT API)
+  - CUHK Robotics Team Project: YOLO applications and OpenCV projects
+- 🌱 Interested in deep learning research and AI applications in robotics
+- ⚡ Planning to pursue a master's degree in Computer Science. :)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tsz-him-shek-823829201/)https://www.linkedin.com/in/tsz-him-shek-823829201/
+- 😄 Pronouns: He / Him
+- ⚡ Fun fact: Daily Leetcode Challenge
